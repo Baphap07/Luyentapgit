@@ -16,6 +16,7 @@ namespace ltgit
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            //lan 1111111
         }
 
         public IConfiguration Configuration { get; }
